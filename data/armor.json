@@ -1,0 +1,52 @@
+{
+  "rarity1": [
+    {
+      "armor_name": "Hunting Helm",
+      "label": "Hunting Helm",
+      "value": "Hunting Helm",
+      "blademaster": true,
+      "body": "head",
+      "defense_min": 2,
+      "defense_max": 50,
+      "fire_res": 1,
+      "water_res": 0,
+      "thunder_res": 0,
+      "dragon_res": 0,
+      "ice_res": 0,
+      "slots": 1,
+      "skills": [{ "psychic": 3 }]
+    },
+    {
+      "armor_name": "Hunting Mail",
+      "label": "Hunting Mail",
+      "value": "Hunting Mail",
+      "blademaster": true,
+      "body": "torso",
+      "defense_min": 2,
+      "defense_max": 50,
+      "fire_res": 1,
+      "water_res": 0,
+      "thunder_res": 0,
+      "dragon_res": 0,
+      "ice_res": 0,
+      "slots": 0,
+      "skills": [{ "psychic": 2 }]
+    },
+    {
+      "armor_name": "Hunting Braces",
+      "label": "Hunting Braces",
+      "value": "Hunting Braces",
+      "blademaster": true,
+      "body": "arms",
+      "defense_min": 2,
+      "defense_max": 50,
+      "fire_res": 1,
+      "water_res": 0,
+      "thunder_res": 0,
+      "dragon_res": 0,
+      "ice_res": 0,
+      "slots": 0,
+      "skills": [{ "psychic": 5 }]
+    }
+  ]
+}
